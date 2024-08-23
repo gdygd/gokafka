@@ -11,7 +11,7 @@
 
     `wget -d https://downloads.apache.org/kafka/3.8.0/kafka_2.13-3.8.0.tgz`
 ####
-* **kafka install file**
+* **kafka install file**  
 ![install2](https://github.com/user-attachments/assets/d16daaef-6643-4e68-b889-5da26ebc7163)
     
 ### 3) Install Kafka
