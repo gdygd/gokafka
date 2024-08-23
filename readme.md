@@ -12,7 +12,7 @@
     `wget -d https://downloads.apache.org/kafka/3.8.0/kafka_2.13-3.8.0.tgz`
 <br/> 
 * **kafka install file**
-![install2](https://github.com/user-attachments/assets/4d5d281c-0225-4ac1-8a8d-0657b0194f4a)
+![install2](https://github.com/user-attachments/assets/d16daaef-6643-4e68-b889-5da26ebc7163)
     
 ### 3) Install Kafka
  * **3.1 압축풀기**
