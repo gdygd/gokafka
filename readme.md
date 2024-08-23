@@ -10,15 +10,14 @@
 * **위 이미지 우클릭 후 링크 복사**
 
     `wget -d https://downloads.apache.org/kafka/3.8.0/kafka_2.13-3.8.0.tgz`
-<br/> 
+####
 * **kafka install file**
-
 ![install2](https://github.com/user-attachments/assets/d16daaef-6643-4e68-b889-5da26ebc7163)
     
 ### 3) Install Kafka
  * **3.1 압축풀기**
     `tar -zxf kafka_2.13-3.8.0.tgz`
-<br/> 
+####
  * **3.2 설치 폴더로 이동**
     `cd kafka_2.13-3.8.0/`
 
